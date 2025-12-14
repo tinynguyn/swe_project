@@ -1,4 +1,4 @@
-# Abschließendes Projektproposal  
+
 ## Smart Energy Monitoring System (SEMS)
 
 ---
