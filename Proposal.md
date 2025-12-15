@@ -98,6 +98,7 @@ Das Projekt ist auf eine Dauer von **3 Monaten (ca. 11 Wochen)** ausgelegt.
 | **M5: Testphase** | 1 Wochen | System-, Integrations- und UAT-Tests, Fehlerbehebung, Dokumentation |
 | **M6: Projektabnahme** | 1 Wochen | Formale Abnahme, Übergabe von Quellcode und Dokumentation |
 
+![Gantt chart](images/Gantt_chart.png)
 ---
 
 ## 5. Aufwandsabschätzung und benötigte Ressourcen
@@ -203,3 +204,6 @@ verarbeitbaren Datenpool aggregiert.
 - Fokus auf **Energy Monitoring**
 - Schlanke Architektur für **batteriebetriebene, ressourcenbeschränkte Geräte**
 - Hohe Interoperabilität ohne proprietäre Abhängigkeiten
+
+### Business Model Canvas
+![Business Model Canvas](images/bmc.png)
