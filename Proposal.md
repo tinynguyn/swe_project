@@ -2,7 +2,15 @@
 ## Smart Energy Monitoring System (SEMS)
 
 ---
+## Team-Mitglieder  
 
+1571013 / Isha Kaushal  
+1592467 / Thi Yen Nhi Nguyen  
+1589322 / Thi Thao Nguyen Vu  
+1580019 / Iman El Khattouti  
+
+
+---
 ## 1. Produktbezeichnung
 
 **SEMS (Smart Energy Monitoring System)**
