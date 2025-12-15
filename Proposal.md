@@ -81,6 +81,8 @@ bestehend aus:
   Architekturdesign zur späteren Erweiterung der Geräteanzahl und  
   des Datenvolumens.
 
+![Mind map](images/mindmap.jpeg)
+
 ---
 
 ## 4. Meilenstein-Planung (phasenbasiert)
