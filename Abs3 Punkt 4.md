@@ -1,7 +1,7 @@
 # Abs. 3: Projektstruktur & Resourscenplannung, Punkt 4
 
 ## 1. Business Model Canvas
-![Business Model Canvas]("C:\Users\Iman Chemlali\Documents\Sem3\SWE\LASTENHEFT\bmc.png")
+![Business Model Canvas](images/bmc.png)
 
 ## 2. Grobschätzung des Aufwands (Material, Personal, Finanzmittel)
 ### Personalaufwand
@@ -66,4 +66,5 @@ Daten erfordert effiziente Aggregationslogik
   Systeme wie *Home Assistant* oder *OpenHAB* mit hoher Flexibilität,  
   jedoch höherem Konfigurationsaufwand und geringerem Fokus auf  
   ein einzelnes leichtgewichtiges Protokoll.
+
 
