@@ -63,9 +63,10 @@ besitzen und eine zentrale Setuerungsplatform suchen.
 ---
 
 ## 3. Zentrale funktionalen Eigenschaften erläutert an der Mind-Map
-![Mind Map]("C:\Users\Iman Chemlali\Documents\Sem3\SWE\Projekt\Mindmap.png")
+![Mind Map](images/Mindmap.png)
 
 ---
 
 ## 4. Umsetzung des Produktes anhand von Mock-Ups
 [UI-Mock-Up](https://pr.to/BWKL91/)
+
